@@ -8,6 +8,8 @@ Mentor- Muzammil Ahmed
 
 # Overview of the Project
 ## Task2- CONTENT MARKETING STRATEGY
+Created Content marketing strategy for a website.It includes Promotion channels,setting goals,target audience,analyzing competitors,content ideas.
+# Screenshots
 ![image1](https://github.com/ashwin2023paralikar/codtech_2/blob/63e1011adfec66167509e85f75acae880d659843/Screenshot%202025-01-24%20163810.png)
 ![image1](https://github.com/ashwin2023paralikar/codtech_2/blob/63e1011adfec66167509e85f75acae880d659843/Screenshot%202025-01-24%20163830.png)
 ![image1](https://github.com/ashwin2023paralikar/codtech_2/blob/63e1011adfec66167509e85f75acae880d659843/Screenshot%202025-01-24%20163857.png)
